@@ -1,0 +1,32 @@
+name: uikit_tt
+description: "A new Flutter project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.11.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_svg: ^2.2.4
+  smooth_page_indicator: ^2.0.1
+  flutter_timer_countdown: ^1.0.7
+  mask_text_input_formatter: ^2.9.0
+  modal_bottom_sheet: ^3.0.0
+  vize: ^1.0.3
+  logger: ^2.7.0
+
+
+flutter:
+
+   fonts:
+     - family: PublicSans
+       fonts:
+         - asset: font/PublicSans.ttf
