@@ -16,5 +16,5 @@ abstract class AppColors {
 abstract class AppTypography {
   static TextStyle title1Semibold = TextStyle(fontFamily: 'PublicSans', fontSize: 24.ts, fontWeight: FontWeight.w600, height: 28.fh, letterSpacing: 24.ts * 0.0033);
   static TextStyle title2Regular = TextStyle(fontFamily: 'PublicSans', fontSize: 20.ts, fontWeight: FontWeight.w400, height: 28.fh, letterSpacing: 20.ts * 0.0038);
-  static TextStyle title2Semibold = TextStyle(fontFamily: 'PublicSans', fontSize: 17.ts, fontWeight: FontWeight.w400, height: 24.fh, letterSpacing: 0);
+  static TextStyle title2Semibold = TextStyle(fontFamily: 'PublicSans', fontSize: 17.ts, fontWeight: FontWeight.w600, height: 24.fh, letterSpacing: 0);
 }
